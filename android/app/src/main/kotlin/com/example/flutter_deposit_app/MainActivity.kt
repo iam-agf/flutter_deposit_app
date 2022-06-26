@@ -1,4 +1,4 @@
-package com.example.flutter_deposit_app
+package com.example.flutterdepositapp
 
 import io.flutter.embedding.android.FlutterActivity
 

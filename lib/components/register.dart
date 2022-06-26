@@ -26,11 +26,11 @@ class _Web3Register extends State<Web3Register> {
 
     await Web3AuthFlutter.init(
       clientId:
-          'BJvlvI4od8kZAoUoZXFCQYXcXV8K9q42p36ZlWmmzBI79fTDeAgjLs8Ig9aFWE33mS71qf8EVWMEZ9DGRTllvOw',
-      network: Network.mainnet,
-      redirectUri: 'org.torusresearch.flutter.web3authexample://auth',
+          'BIMHc3twyJ2OsaynO1IkmG0zTEtfEhjcbJN0UOEn73C5qE8vqMy9fYDHFpspgz0VOxqkYdnx1FarpqgY_kMPcLs',
+      network: Network.testnet,
+      redirectUri: 'com.example.flutterdepositapp://auth',
       whiteLabelData: WhiteLabelData(
-          dark: true, name: "flutter_deposit_app", theme: themeMap),
+          dark: true, name: "flutterdepositapp", theme: themeMap),
     );
   }
 

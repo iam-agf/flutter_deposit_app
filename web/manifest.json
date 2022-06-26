@@ -1,6 +1,6 @@
 {
-    "name": "flutter_deposit_app",
-    "short_name": "flutter_deposit_app",
+    "name": "flutterdepositapp",
+    "short_name": "flutterdepositapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

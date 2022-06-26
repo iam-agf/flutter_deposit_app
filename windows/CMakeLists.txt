@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(flutter_deposit_app LANGUAGES CXX)
+project(flutterdepositapp LANGUAGES CXX)
 
-set(BINARY_NAME "flutter_deposit_app")
+set(BINARY_NAME "flutterdepositapp")
 
 cmake_policy(SET CMP0063 NEW)
 
